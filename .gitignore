@@ -1,3 +1,11 @@
+# tar.gz file (Source Archive) and .whl file (Built Distribution)
 build/
+
+# Setuptools distribution folder.
 dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
 *.egg-info/
+
+# Compiled python modules.
+*.pycpy
